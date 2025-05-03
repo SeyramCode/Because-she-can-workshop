@@ -23,5 +23,11 @@
       "name":"Alan Turing",
       "quote":"We can only see a short distance ahead, but we can see plenty there that needs to be done.",
       "contributor":"mildthrone"
+   },
+   {
+      "name" : "Leonardo Da Vinci",
+      "quote" : "Simplicity Is The Ultimate Sophistication",
+      "contributor": "Seyram"
    }
+   
 ]
